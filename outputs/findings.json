@@ -1,0 +1,23 @@
+{
+  "period": "Jan 2021 \u2013 Aug 2026",
+  "total_twh": 232.3,
+  "renewable_pct_overall": 87.0,
+  "renewable_pct_by_year": {
+    "2021": 82.1,
+    "2022": 87.2,
+    "2023": 88.2,
+    "2024": 85.3,
+    "2025": 88.1,
+    "2026": 93.2
+  },
+  "best_month": [
+    "Dec 2024",
+    97.2
+  ],
+  "worst_month": [
+    "Jun 2021",
+    73.4
+  ],
+  "largest_source": "Hydro",
+  "largest_source_pct": 58.6
+}

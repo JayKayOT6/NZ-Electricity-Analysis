@@ -1,0 +1,10 @@
+# Raw downloads are large and re-downloadable
+data/raw/*.csv
+data/sample/
+outputs/demo/
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
