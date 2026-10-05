@@ -1,6 +1,6 @@
 # How renewable is New Zealand's grid?
 
-![tests](https://github.com/JayKayOT6/nz-electricity-analysis/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/JayKayOT6/NZ-Electricity-Analysis/actions/workflows/tests.yml/badge.svg)
 
 I wanted to know how much of New Zealand's electricity really comes from renewables, and whether that number is actually going up or just moving with the weather. So I pulled five and a half years of metered, half-hourly generation data from the Electricity Authority and worked through it in Python.
 
@@ -122,7 +122,7 @@ The analysis is covered by unit tests run on synthetic data in the same format. 
 ## Run it yourself
 
 ```bash
-git clone https://github.com/JayKayOT6/nz-electricity-analysis.git
+git clone https://github.com/JayKayOT6/NZ-Electricity-Analysis.git
 cd nz-electricity-analysis
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
