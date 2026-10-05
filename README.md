@@ -123,7 +123,7 @@ The analysis is covered by unit tests run on synthetic data in the same format. 
 
 ```bash
 git clone https://github.com/JayKayOT6/NZ-Electricity-Analysis.git
-cd nz-electricity-analysis
+cd NZ-Electricity-Analysis
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
